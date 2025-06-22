@@ -1,0 +1,14 @@
+{ "columns":3,
+ "image":"Tiny Swords\/Tiny Swords (Update 010)\/Terrain\/Ground\/Shadows.png",
+ "imageheight":192,
+ "imagewidth":192,
+ "margin":0,
+ "name":"Shadows",
+ "spacing":0,
+ "tilecount":9,
+ "tiledversion":"1.11.2",
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset",
+ "version":"1.10"
+}
